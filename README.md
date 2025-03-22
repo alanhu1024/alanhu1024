@@ -1,4 +1,4 @@
-- 👋 Hi, I’m A Lan
+- 👋 Hi, I’m 暗蓝 Alan Hu
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning how to become a startup as a tech man.
 - 💞️ I’m looking to collaborate on SaaS platform
